@@ -1,0 +1,50 @@
+*{
+   color: rgb(20, 19, 19);
+}
+.header {
+}
+.header-link {
+}
+.header-link a{
+   color: blue;
+}
+.fact .fact-title {
+   color: rgb(221, 221, 30);
+}
+.fact-title {
+}
+.text {
+   color: rgb(33, 116, 116);
+}
+.text.fact-text {
+   color: rgb(17, 190, 190);
+}
+.content {
+}
+h2{
+   color: rgb(56, 12, 12);
+}
+.content-title {
+}
+.content-list {
+}
+.content-list a{
+   color: rgb(41, 41, 163);
+}
+.list-link {
+}
+.content-text .text-content{
+   color: rgb(107, 30, 2);
+}
+.content-subtitle {
+   color: brown;
+}
+.text-content {
+
+}
+.footer h5{
+   color: black;
+}
+.footer a{
+   color: rgb(11, 70, 11);
+}
